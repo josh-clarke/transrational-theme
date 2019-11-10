@@ -2,7 +2,7 @@
 
 The default theme for [Transrational.org](http://transrational.org). 
 
-Based on [Casper 3](https://github.com/TryGhost/Transrational Theme) for [Ghost](https://ghost.org).
+Based on [Casper 3](https://github.com/TryGhost/Casper) for [Ghost](https://ghost.org).
 
 &nbsp;
 
